@@ -34,6 +34,7 @@ For any general inquiries, improvements, or feedback regarding this organization
 You can connect with me and stay updated on my latest projects and activities through the following channels:
 
 - Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05)
+- Linktree: [Vikas Ganiga's social profiles](https://linktr.ee/vikasganiga05)
 
 Don't hesitate to reach out if you have any questions, suggestions, or collaboration opportunities. I'm excited to connect with fellow developers and tech enthusiasts!
 
