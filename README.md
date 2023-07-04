@@ -15,7 +15,7 @@ This organization serves as a showcase for all of my projects and contributions.
 ## Connect
 
 - Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05)
-- Linktree: [Vikas's social profiles](https://linktr.ee/vikasganiga05)
+- Linktree: [Vikas Ganiga's social profiles](https://linktr.ee/vikasganiga05)
 
 ## Our Pledge
 
